@@ -23,6 +23,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.Eldor.Eldor",
+      "versionCode": 1
     }
   }
 }
